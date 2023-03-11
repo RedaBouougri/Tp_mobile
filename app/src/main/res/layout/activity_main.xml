@@ -47,7 +47,7 @@
             android:layout_height="wrap_content"
             android:layout_gravity="center"
             android:layout_marginTop="20pt"
-            android:text="Button" />
+            android:text="Convert" />
 
         <TextView
             android:id="@+id/resultat1"
@@ -55,7 +55,7 @@
             android:layout_height="49dp"
             android:layout_marginLeft="20pt"
             android:layout_marginTop="10pt"
-
+            android:hint="result1"
             android:textSize="20sp" />
 
         <TextView
